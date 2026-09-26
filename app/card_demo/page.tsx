@@ -24,10 +24,10 @@ export default function CardDemo() {
             </CardContent>
             <CardFooter className="flex-col gap-2">
                 <Button type="submit" className="w-full">
-                Login
+                    Login
                 </Button>
                 <Button variant="outline" className="w-full">
-                Login with Google
+                    Login with Google
                 </Button>
             </CardFooter>
             </Card>
